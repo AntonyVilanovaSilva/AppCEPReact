@@ -1,0 +1,22 @@
+.App {
+  border: black solid 0.1px;
+  display: flex;
+  flex-direction: column;
+  min-height: 20rem;
+  min-width: 28rem;
+  align-items: center;
+  justify-content: center;
+}
+
+body{
+  min-width: 100vw;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eu{
+  display: flex;
+  flex-direction: column;
+}
